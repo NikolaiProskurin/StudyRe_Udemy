@@ -1,4 +1,4 @@
-import "./employers-list-item.css";
+import "./employees-list-item.css";
 
 const EmployersListItem = ({ name, salary, increase }) => {
   let classNames = "list-group-item d-flex justify-content-between";
